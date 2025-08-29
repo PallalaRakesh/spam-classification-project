@@ -1,11 +1,3 @@
-# spam-classification-project
-
-Yes, when you copy and paste into a GitHub `README.md` file, you need the correct Markdown formatting. The previous response was in plain text.
-
-Here is the code and text formatted directly for a GitHub `README.md` file, with proper spacing and Markdown syntax for bolding and code blocks. You can copy and paste this entire block.
-
------
-
 # 📧 Spam Detection with Neural Networks
 
 This project demonstrates how to build and train a neural network to classify text messages as either "spam" or "ham" (not spam). The process involves cleaning and preparing text data, building a simple deep learning model, and evaluating its performance.
